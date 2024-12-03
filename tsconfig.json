@@ -30,3 +30,5 @@
 	"outDir": "./dist/",
 	"include": ["src/**/*"]
 }
+
+  
